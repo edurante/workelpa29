@@ -69,7 +69,7 @@
  (plantuml-mode . [(20191102 2056) ((dash (2 0 0)) (emacs (25 0))) "Major mode for PlantUML" tar])
  (popup . [(20221231 1634) ((emacs (24 3))) "Visual Popup User Interface" tar])
  (pretty-hydra . [(20210221 834) ((hydra (0 15 0)) (s (1 12 0)) (dash (2 18 0)) (emacs (24))) "A macro for creating nice-looking hydras" tar])
- (projectile . [(20230317 1101) ((emacs (25 1))) "Manage and navigate projects in Emacs easily" tar])
+ (projectile . [(20230713 1023) ((emacs (25 1))) "Manage and navigate projects in Emacs easily" tar])
  (qml-mode . [(20161016 31) nil "Major mode for editing QT Declarative (QML) code." tar])
  (qt-pro-mode . [(20170604 1841) ((emacs (24))) "Qt Pro/Pri major mode" tar])
  (rainbow-delimiters . [(20210515 1254) nil "Highlight brackets according to their depth" tar])
